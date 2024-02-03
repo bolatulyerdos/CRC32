@@ -1,0 +1,5 @@
+# Ignore user folders and files
+.vs/
+x64/
+*.exe
+*.vcxproj.user
